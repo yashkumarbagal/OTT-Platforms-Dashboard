@@ -1,4 +1,4 @@
-# Netflix-Prime-Hotstar-Dashboard-Power-BI
+# OTT Platforms Dashboard (Netflix | Prime | Hotstar)
 
 ## Dataset (Kaggle)
 ### Netflix Dataset - https://www.kaggle.com/datasets/shivamb/netflix-shows
